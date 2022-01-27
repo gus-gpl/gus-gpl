@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gus-gpl
 - 👀 I’m interested in sharing the best of my technological knowledge.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on something that I have no idea yet, but open to neew projects.
+- 💞️ I’m looking to collaborate on something that I have no idea yet, but open for new projects and ideas.
 - 📫 How to reach me via email.
 
 <!---
